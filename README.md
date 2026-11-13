@@ -1,6 +1,6 @@
 # Guia de Coolify
 
-Documentació en català dels desplegaments a la instància de l’institut.
+Documentació dels desplegaments en Coolify per al Justhub Garage.
 
 Amb Zensical instal·lat, executa `zensical serve` des d’aquest directori i obri l’adreça indicada al terminal. Executa `zensical build` per generar la web a `site/`.
 
