@@ -1,0 +1,8 @@
+site/
+dist/
+.cache/
+.venv/
+__pycache__/
+*.pyc
+AGENTS.md
+resume.sh
